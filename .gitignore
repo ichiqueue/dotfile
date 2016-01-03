@@ -1,3 +1,4 @@
 .config/fcitx
 .config/autostart
 .config/systemd
+.config/dconf
