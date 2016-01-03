@@ -1,8 +1,2 @@
+#include ".Xresources.d/fonts"
 urxvt.scrollBar: false
-
-URxvt.font: xft:ricty:pixelsize=14, xft:DejaVu Sans Mono:pixelsize=13
-URxvt.boldfont: xft:ricty bold:pixelsize=14
-URxvt.italicfont: xft:ricty bold:pixelsize=14
-URxvt.bolditalicfont: xft:ricty bold:pixelsize=14
-
-Xft.antialias: true
