@@ -1,6 +1,6 @@
-URxvt.font: xft:ricty:pixelsize=14, xft:DejaVu Sans Mono:pixelsize=13
-URxvt.boldfont: xft:ricty bold:pixelsize=14
-URxvt.italicfont: xft:ricty bold:pixelsize=14
-URxvt.bolditalicfont: xft:ricty bold:pixelsize=14
+URxvt.font: xft:ricty:pixelsize=18, xft:DejaVu Sans Mono:pixelsize=18
+URxvt.boldfont: xft:ricty bold:pixelsize=18
+URxvt.italicfont: xft:ricty bold:pixelsize=18
+URxvt.bolditalicfont: xft:ricty bold:pixelsize=18
 
 Xft.antialias: true
