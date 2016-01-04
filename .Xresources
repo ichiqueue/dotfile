@@ -1,4 +1,5 @@
 #include ".Xresources.d/fonts"
 #include ".Xresources.d/base16-colors/base16-twilight.dark.256.xresources"
-URxvt*geometry: 120x50
+URxvt*geometry: 120x45
+URxvt.perl-ext-common: tabbed
 urxvt.scrollBar: false
