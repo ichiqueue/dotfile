@@ -2,4 +2,4 @@
 #include ".Xresources.d/base16-colors/base16-solarized.dark.xresources"
 URxvt*geometry: 120x45
 URxvt.perl-ext-common: tabbed
-urxvt.scrollBar: false
+URxvt.scrollBar: false
