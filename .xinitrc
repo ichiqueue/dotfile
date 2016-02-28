@@ -23,7 +23,7 @@ if [ -f $sysmodmap ]; then
     xmodmap $sysmodmap
 fi
 
-if [ -f "$userresources" ]; then
+if [ -f $userresources ]; then
 
 
 
@@ -31,7 +31,7 @@ if [ -f "$userresources" ]; then
 
 
 
-    xrdb -merge "$userresources"
+    xrdb -merge $userresources
 
 fi
 
